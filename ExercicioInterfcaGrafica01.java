@@ -123,8 +123,8 @@ public class ExercicioInterfcaGrafica01 {
         jCheckBoxTemPedrigree.setLocation(435, 162);
         jLabelDescricao.setLocation(10, 190);
         jTextFieldDescricao.setLocation(10, 217);
-        jButtonSalvar.setLocation(315, 237);
-        jButtonCancelar.setLocation(325, 237);
+        jButtonSalvar.setLocation(410, 300);
+        jButtonCancelar.setLocation(480, 300);
     }
     
     private void gerarDimensoes() {
